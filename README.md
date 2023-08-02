@@ -1,8 +1,5 @@
-# React + Vite
+# React Context Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a quite simple demo for CONTEXT in react, showing that by wrapping components in a context provider, the components and all their children will have access to the state variable and method assigned to the value attribute.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I used vite to make the template for my demo.
